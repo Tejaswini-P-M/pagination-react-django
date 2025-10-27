@@ -1,4 +1,4 @@
-here I implemented the paginatio
+here I implemented the pagination of list or table
 
 Pagination Logic
 
